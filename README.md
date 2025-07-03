@@ -12,7 +12,7 @@
 
 ###### 🌸 São Paulo, Brazil.
 
-###### I'm a **Computer Engineering** and **Information Systems** student and I'm passionate about the world of technology.
+###### Computer Engineering and Information Systems student and passionate about the world of technology.
 ###### I like programming, learning new technologies and I'm very interested in **databases**
 
 ## tech skills
